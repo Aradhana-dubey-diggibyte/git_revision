@@ -1,2 +1,3 @@
-Feature line 1
-Feature line 2
+Current branch content (main)
+Incoming commit content (feature commit 337efc8)
+
