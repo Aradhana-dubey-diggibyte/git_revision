@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 Current branch content (master)
 Incoming commit content (featur)
+=======
+Feature line 1
+Feature line 2
+>>>>>>> f0da529 (Add feature branch second line)
